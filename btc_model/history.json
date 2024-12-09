@@ -1,0 +1,26 @@
+[
+    {
+        "date": "2024-12-02 18:44:34",
+        "current_price": 97279.7890625,
+        "predicted_price": 94132.64093943452,
+        "percent_change": -3.2351510559336285
+    },
+    {
+        "date": "2024-12-02 18:51:58",
+        "current_price": 97279.7890625,
+        "predicted_price": 92041.51398951537,
+        "percent_change": -5.384751677061265
+    },
+    {
+        "date": "2024-12-02 19:00:12",
+        "current_price": 97279.7890625,
+        "predicted_price": 90605.62080693315,
+        "percent_change": -6.860796389349543
+    },
+    {
+        "date": "2024-12-02 19:00:34",
+        "current_price": 97279.7890625,
+        "predicted_price": 90605.62080693315,
+        "percent_change": -6.860796389349543
+    }
+]
